@@ -1,4 +1,4 @@
-package com.dtkj.activity;
+package com.dtkj.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
