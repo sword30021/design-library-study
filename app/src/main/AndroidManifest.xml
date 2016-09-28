@@ -15,6 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".activities.TabLayoutActivity"/>
+        <activity android:name=".activities.BottomSheetActivity"/>
+        <activity android:name=".activities.RecyclerViewActivity"/>
     </application>
 
 </manifest>
