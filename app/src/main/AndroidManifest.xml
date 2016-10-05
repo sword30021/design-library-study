@@ -18,6 +18,8 @@
         <activity android:name=".activities.TabLayoutActivity"/>
         <activity android:name=".activities.BottomSheetActivity"/>
         <activity android:name=".activities.RecyclerViewActivity"/>
+        <activity android:name=".activities.FlexBoxActivity"/>
+        <activity android:name=".activities.BitmapShaderActivity"/>
     </application>
 
 </manifest>

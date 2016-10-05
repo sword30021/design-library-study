@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="widget_three_bar">
+        <attr name="leftIcon" format="reference"/>
+        <attr name="centerText" format="string"/>
+        <attr name="rightIcon" format="reference"/>
+    </declare-styleable>
+    <declare-styleable name="custom_circle_view">
+        <attr name="mborder_color" format="color"/>
+        <attr name="mborder_width" format="dimension"/>
+        <attr name="msrc" format="reference"/>
+    </declare-styleable>
+    <declare-styleable name="custom_gif_view">
+        <attr name="gif_src" format="reference"></attr>
+    </declare-styleable>
+</resources>

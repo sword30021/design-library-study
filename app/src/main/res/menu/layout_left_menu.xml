@@ -19,5 +19,17 @@
             android:icon="@mipmap/ic_launcher"
             android:title="BottomSheet">
         </item>
+        <item
+            android:id="@+id/menu_flexbox"
+            android:checked="true"
+            android:icon="@mipmap/ic_launcher"
+            android:title="FlexBox">
+        </item>
+        <item
+            android:id="@+id/menu_shader"
+            android:checked="true"
+            android:icon="@mipmap/ic_launcher"
+            android:title="BitmapShader">
+        </item>
     </group>
 </menu>

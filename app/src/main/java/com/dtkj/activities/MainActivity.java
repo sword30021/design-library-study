@@ -67,6 +67,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.menu_bottomsheet:
                 startActivity(new Intent(this, BottomSheetActivity.class));
                 break;
+            case R.id.menu_flexbox:
+                startActivity(new Intent(this, FlexBoxActivity.class));
+                break;
+            case R.id.menu_shader:
+                startActivity(new Intent(this, BitmapShaderActivity.class));
+                break;
             default:
                 break;
         }
